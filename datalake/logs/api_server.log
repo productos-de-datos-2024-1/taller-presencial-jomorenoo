@@ -1,0 +1,26 @@
+2024-04-06 07:36:28,914:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:36:28,914:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:36:28,916:INFO: * Restarting with stat
+2024-04-06 07:36:30,078:WARNING: * Debugger is active!
+2024-04-06 07:36:30,103:INFO: * Debugger PIN: 132-030-724
+2024-04-06 07:53:48,721:INFO: * Detected change in '/Users/usuario/Documents/GitHub/taller-presencial-jomorenoo/src/6b_api_server/client_example.py', reloading
+2024-04-06 07:53:49,036:INFO: * Restarting with stat
+2024-04-06 07:53:51,088:WARNING: * Debugger is active!
+2024-04-06 07:53:51,101:INFO: * Debugger PIN: 132-030-724
+2024-04-06 08:04:17,348:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 08:04:17,349:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 08:04:17,351:INFO: * Restarting with stat
+2024-04-06 08:04:18,352:WARNING: * Debugger is active!
+2024-04-06 08:04:18,371:INFO: * Debugger PIN: 132-030-724
+2024-04-06 08:05:15,047:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:05:32,813:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:05:32,816:INFO:127.0.0.1 - - [06/Apr/2024 08:05:32] "POST / HTTP/1.1" 200 -
+2024-04-06 08:19:05,491:INFO: * Detected change in '/Users/usuario/Documents/GitHub/taller-presencial-jomorenoo/src/6b_api_server/client_example.py', reloading
+2024-04-06 08:19:05,863:INFO: * Restarting with stat
+2024-04-06 08:19:08,198:WARNING: * Debugger is active!
+2024-04-06 08:19:08,213:INFO: * Debugger PIN: 132-030-724
+2024-04-06 08:20:31,782:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:20:34,434:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:20:34,435:INFO:127.0.0.1 - - [06/Apr/2024 08:20:34] "POST / HTTP/1.1" 200 -
